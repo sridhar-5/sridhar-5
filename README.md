@@ -6,7 +6,7 @@
 - I speak English🇬🇧,Hindi🇮🇳 ,Telugu🇮🇳 and Tech
 - I attend Amrita School of Engineering🎓
 - I am currently working 💻 on
-	- Android development
+  - Android development
   - IOS App development
   - Web App development
   - UNIX - 
@@ -28,9 +28,9 @@
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/sridhar-5"> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sridhar-5&theme='chartreuse-dark'&hide=html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sridhar-5&theme=chartreuse-      dark'&hide=html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<a href="https://github.com/sridhar-5">/>
+<a href="https://github.com/sridhar-5">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sridhar-5&show_icons=true&theme='chartreuse-dark'&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Sridhar's GitHub Stats" />
 </a>
 

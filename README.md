@@ -9,8 +9,8 @@
 	- Android development
   - IOS App development
   - Web App development
-	- UNIX - 
-	- Problem Solving 🔧
+  - UNIX - 
+  - Problem Solving 🔧
 	
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-UNIX-informational?style=flat&logo=apple&logoColor=white&color=2bbc8a)

@@ -9,11 +9,11 @@
   - Android development
   - IOS App development
   - Web App development
-  - UNIX - 
+  - macOS-BigSur- 
   - Problem Solving 🔧
 	
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-UNIX-informational?style=flat&logo=apple&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=apple&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Android_Studio-informational?style=flat&logo=android-studio&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-IntelliJ-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Atom-informational?style=flat&logo=atom&logoColor=white&color=2bbc8a)

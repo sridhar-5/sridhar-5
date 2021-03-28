@@ -36,6 +36,8 @@
 
 <!-- links to social media icons -->
 
+<!-- just a comment that's it -->
+
 <!-- icons with padding -->
 
 [1.1]: http://i.imgur.com/tXSoThF.png

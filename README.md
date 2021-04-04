@@ -43,11 +43,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sridhar-5" alt="SRIDHAR" /> </p>
 
-
-<!-- links to social media icons -->
-
-<!-- just a comment that's it -->
-
 <!-- icons with padding -->
 
 [1.1]: http://i.imgur.com/tXSoThF.png

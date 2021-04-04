@@ -36,7 +36,11 @@
 <a href="https://github.com/sridhar-5">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sridhar-5&show_icons=true&theme='chartreuse-dark'&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Sridhar's GitHub Stats" />
 </a>
-![](https://visitor-badge.laobi.icu/badge?page_id=sridhar-5.sridhar-5) 
+
+<br>
+
+![](https://visitor-badge.laobi.icu/badge?page_id=sridhar-5.sridhar-5)
+
 
 <!-- links to social media icons -->
 

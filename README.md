@@ -38,7 +38,7 @@
 </a>
 
 <br>
-<center>![](https://visitor-badge.laobi.icu/badge?page_id=sridhar-5.sridhar-5) </center>
+![](https://visitor-badge.laobi.icu/badge?page_id=sridhar-5.sridhar-5) 
 
 <!-- links to social media icons -->
 

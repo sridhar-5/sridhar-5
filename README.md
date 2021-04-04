@@ -38,8 +38,8 @@
 </a>
 
 <br>
-
-![](https://visitor-badge.laobi.icu/badge?page_id=sridhar-5.sridhar-5)
+<br>
+"                                 "![](https://visitor-badge.laobi.icu/badge?page_id=sridhar-5.sridhar-5)
 
 
 <!-- links to social media icons -->

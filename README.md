@@ -38,7 +38,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sridhar-5&show_icons=true&theme='chartreuse-dark'&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Sridhar's GitHub Stats" />
 </a>
 
-[![Sridhar's github activity graph](https://activity-graph.herokuapp.com/graph?username=sridhar-5&theme=react-dark)](https://github.com/sridhar-5)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sridhar-5" alt="SRIDHAR" /> </p>
 

@@ -7,11 +7,9 @@
 - I attend Amrita School of Engineering🎓
 - I am currently working 💻 on
   - Android development
-  - IOS App development
   - Web App development
   - macOS-BigSur- 
   - Problem Solving 🔧
-
 
 	
 ## 🔧 Technologies & Tools

@@ -39,7 +39,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sridhar-5" alt="SRIDHAR" /> </p>
 
-<!-- icons with padding just an ordinary comment-->
+<!-- icons with padding just an ordinary comment by me-->
 
 [1.1]: http://i.imgur.com/tXSoThF.png
 [2.1]: http://i.imgur.com/0o48UoR.png 

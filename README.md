@@ -33,6 +33,8 @@
 </a>
 -->
 
+[![Sridhar's github streak](https://github-readme-streak-stats.herokuapp.com/?user=sridhar-5&theme=blue-green)](https://github.com/sridhar-5/github-readme-streak-stats)
+
 ![Sridhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=sridhar-5&show_icons=true&theme=chartreuse-dark)
 
 

@@ -16,6 +16,7 @@
 ![](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=apple&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Android_Studio-informational?style=flat&logo=android-studio&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-IntelliJ-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor--informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Atom-informational?style=flat&logo=atom&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
@@ -36,6 +37,8 @@
 
 
 [![Sridhar's github activity graph](https://activity-graph.herokuapp.com/graph?username=sridhar-5&theme=react-dark)](https://github.com/sridhar-5)
+
+[![Sridhar's github trophy](https://github-profile-trophy.vercel.app/?username=sridhar-5&row=1)](https://github.com/sridhar-5/github-profile-trophy)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sridhar-5" alt="SRIDHAR" /> </p>
 

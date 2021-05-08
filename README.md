@@ -10,6 +10,7 @@
   - Web App development
   - macOS-BigSur- 
   - Problem Solving 🔧
+- I am a blogger. Read my latest blogpost ![here](https://sridharsaikalavalapalli.medium.com/dive-into-metasploit-61309bdda08e)
 
 <!-- hello -->
 	

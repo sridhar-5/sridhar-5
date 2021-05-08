@@ -9,9 +9,9 @@ I am Sridhar. You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][
   - Web App development
   - macOS-BigSur- 
   - Problem Solving 🔧
-- I am a blogger read my latest blogpost [here][1].
+- I am a blogger read my latest blogpost [here][9].
 
-[1]: https://sridharsaikalavalapalli.medium.com/dive-into-metasploit-61309bdda08e
+[9]: https://sridharsaikalavalapalli.medium.com/dive-into-metasploit-61309bdda08e
 
 <!-- hello -->
 

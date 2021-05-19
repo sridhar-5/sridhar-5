@@ -16,7 +16,7 @@ I am Sridhar. You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][
 <!-- hello -->
 
 ## 🔧 Technologies & Tools
-
+<!-- this is a pure comment. -->
 ![](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=apple&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Android_Studio-informational?style=flat&logo=android-studio&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-IntelliJ-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)

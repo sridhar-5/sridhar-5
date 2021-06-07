@@ -36,6 +36,7 @@ I am Sridhar. You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][
 <a href="https://github.com/sridhar-5">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sridhar-5&theme='chartreuse-dark'&hide=html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
+fair comment
 -->
 
 [![Sridhar's github streak](https://github-readme-streak-stats.herokuapp.com/?user=sridhar-5&theme=blue-green)](https://github.com/sridhar-5/github-readme-streak-stats)

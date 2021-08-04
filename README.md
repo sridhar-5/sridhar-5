@@ -11,6 +11,7 @@ I am Sridhar. You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][
   - Problem Solving 🔧
 - I am a blogger read my latest blogpost [here][9].
 
+<iframe src="https://api.badgr.io/public/assertions/f61PzfzQRkqY4QmBxkP9iA?embedVersion=1&amp;embedWidth=330&amp;embedHeight=186&amp;identity__email=kv.sridharsai%40gmail.com" title="Badge: Postman Student Expert" style="width: 330px; height: 186px; border: 0px;"></iframe>
 
 [9]: https://sridharsaikalavalapalli.medium.com/dive-into-metasploit-61309bdda08e
 

@@ -14,7 +14,7 @@ I am Sridhar. You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][
 
 [9]: https://sridharsaikalavalapalli.medium.com/dive-into-metasploit-61309bdda08e
 
-<!-- hello -->
+<!-- hello  -->
 
 ## 🔧 Technologies & Tools
 <!-- this is a pure comment. -->

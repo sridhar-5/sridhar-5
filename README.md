@@ -44,7 +44,7 @@ fair comment....
 
 ![Sridhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=sridhar-5&show_icons=true&theme=chartreuse-dark)
 
-[![Sridhar's github activity graph](https://activity-graph.herokuapp.com/graph?username=sridhar-5&theme=react-dark)](https://github.com/sridhar-5)
+[![Sridhar's github activity graph](https://activity-graph.herokuapp.com/graph?username=sridhar-5&theme=dracula)](https://github.com/sridhar-5)
 
 [![Sridhar's github trophy](https://github-profile-trophy.vercel.app/?username=sridhar-5&row=1)](https://github.com/sridhar-5/github-profile-trophy)
 

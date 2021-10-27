@@ -62,7 +62,7 @@ fair comment....
 [3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png "LinkedIn icon without padding"
 
 
-<!-- links to your social media accounts -->
+<!-- links to your social media accounts..! -->
 <!-- just a commment that's it -->
 
 [1]: https://twitter.com/Sridhar__05

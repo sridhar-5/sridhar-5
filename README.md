@@ -49,7 +49,6 @@ fair comment....
 
 [![Sridhar's github trophy](https://github-profile-trophy.vercel.app/?username=sridhar-5&row=1)](https://github.com/sridhar-5/github-profile-trophy)
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=sridhar-5" alt="SRIDHAR" /> </p>
 
 <!-- icons with padding just an ordinary comment by me-->
 

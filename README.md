@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello..!<br>I'm Sridhar, a passionate, enthusiastic self taught programmer with experience in developing JavaScript applications in broad domains. <br>I also have keen interest towards building: <br>- robust Backends<br>- Machine learning<br>- Deep learning<br>- Developing high functional Mobile applications<br>- DevOps<br>I really enjoy contributing to open source and projects that impact people’s day to day life. I currently work as a Software Engineer II at @ArcadiaPower. 
+Hello..!<br>I'm Sridhar, a passionate, enthusiastic self taught programmer with experience in developing JavaScript applications in broad domains. <br>I also have keen interest towards: <br>- building robust Backends<br>- Machine learning<br>- Deep learning<br>- Developing high functional Mobile applications<br>- DevOps<br>I really enjoy contributing to open source and projects that impact people’s day to day life. I currently work as a Software Engineer II at @ArcadiaPower. 
 
 
 ## 🌐 Socials:
